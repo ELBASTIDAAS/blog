@@ -5,9 +5,11 @@ dj-email-url==1.0.6
 Django==4.1.5
 django-cache-url==3.4.4
 environs==9.5.0
+gunicorn==20.1.0
 marshmallow==3.19.0
 packaging==23.0
 pycodestyle==2.10.0
 python-dotenv==0.21.0
 sqlparse==0.4.3
 tomli==2.0.1
+whitenoise==6.3.0
